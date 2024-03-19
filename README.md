@@ -34,3 +34,6 @@ This project served as a platform for me to refine my skills on the Azure platfo
 
 ![Test Result](https://github.com/RochaDenis/Language_Studio_Azure_AI900/assets/49164278/2b152791-5c27-42cd-9b5d-e888c1dc6f56)
 
+## Conclusion
+
+Through these tests, I gained valuable insights into the capabilities of Language Studio on Azure, particularly in the realm of sentiment analysis and assessment of textual data. This project has not only enhanced my understanding of Azure services but also provided me with practical experience in leveraging NLP techniques for real-world applications. I look forward to further exploring and utilizing Azure's AI capabilities in future projects.
